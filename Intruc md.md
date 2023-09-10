@@ -8,6 +8,8 @@
 ## Списки
 Xnj,s lj,fdbnm ytyevthjdfyyst cgbcrb? ytj,[jlbvj geyrns dsltkbnm pdtpljxrjq d yfxfkt cnhjrb ]
 ## Работа с изображениями
+Чтобы вставить изображение достаточно написать следующее
+![Я будущий BI-аналитик.](IMG_9203.JPG)
 
 ## Ссылки
 
